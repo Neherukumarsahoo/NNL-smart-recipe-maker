@@ -1,0 +1,39 @@
+.contact-page {
+      background-color: #f8f9fa;
+    }
+    
+    .section-title {
+      font-size: 3rem;
+      font-weight: 600;
+    }
+    
+    .section-subtitle {
+      color: #666;
+      font-size: 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    
+    .contact-info-box:hover,
+    .contact-form-box:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .btn-teal {
+      background-color: #20c997;
+      border: none;
+      color: white;
+      transition: 0.3s ease;
+    }
+    
+    .btn-teal:hover {
+      background-color: #17a085;
+    }
+    .contact-info-box,
+.contact-form-box {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

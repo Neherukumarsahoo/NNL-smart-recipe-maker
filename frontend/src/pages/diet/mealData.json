@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 498,
+    "description": {
+      "heading": "1. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 335,
+    "description": {
+      "heading": "2. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nuts Mix",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 447,
+    "description": {
+      "heading": "3. Enjoy Delicious Nuts Mix",
+      "subheading": "Nuts Mix is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Nuts Mix is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 691,
+    "description": {
+      "heading": "4. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 403,
+    "description": {
+      "heading": "5. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Boiled Eggs",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 642,
+    "description": {
+      "heading": "6. Enjoy Delicious Boiled Eggs",
+      "subheading": "Boiled Eggs is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Boiled Eggs is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Stir Fry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 290,
+    "description": {
+      "heading": "7. Enjoy Delicious Stir Fry",
+      "subheading": "Stir Fry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Stir Fry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 545,
+    "description": {
+      "heading": "8. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 641,
+    "description": {
+      "heading": "9. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Nuts Mix",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 375,
+    "description": {
+      "heading": "10. Enjoy Delicious Nuts Mix",
+      "subheading": "Nuts Mix is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Nuts Mix is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 544,
+    "description": {
+      "heading": "11. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 634,
+    "description": {
+      "heading": "12. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 627,
+    "description": {
+      "heading": "13. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 357,
+    "description": {
+      "heading": "14. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 653,
+    "description": {
+      "heading": "15. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Fruit Salad",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 679,
+    "description": {
+      "heading": "16. Enjoy Delicious Fruit Salad",
+      "subheading": "Fruit Salad is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Fruit Salad is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Avocado Toast",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 484,
+    "description": {
+      "heading": "17. Enjoy Delicious Avocado Toast",
+      "subheading": "Avocado Toast is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Avocado Toast is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 231,
+    "description": {
+      "heading": "18. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Avocado Toast",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 423,
+    "description": {
+      "heading": "19. Enjoy Delicious Avocado Toast",
+      "subheading": "Avocado Toast is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Avocado Toast is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 652,
+    "description": {
+      "heading": "20. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Avocado Toast",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 549,
+    "description": {
+      "heading": "21. Enjoy Delicious Avocado Toast",
+      "subheading": "Avocado Toast is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Avocado Toast is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 556,
+    "description": {
+      "heading": "22. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Avocado Toast",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 251,
+    "description": {
+      "heading": "23. Enjoy Delicious Avocado Toast",
+      "subheading": "Avocado Toast is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Avocado Toast is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 351,
+    "description": {
+      "heading": "24. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 374,
+    "description": {
+      "heading": "25. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 349,
+    "description": {
+      "heading": "26. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 588,
+    "description": {
+      "heading": "27. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Beef Stew",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 420,
+    "description": {
+      "heading": "28. Enjoy Delicious Beef Stew",
+      "subheading": "Beef Stew is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Beef Stew is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Veggie Wrap",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 286,
+    "description": {
+      "heading": "29. Enjoy Delicious Veggie Wrap",
+      "subheading": "Veggie Wrap is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Veggie Wrap is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Tofu Curry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 552,
+    "description": {
+      "heading": "30. Enjoy Delicious Tofu Curry",
+      "subheading": "Tofu Curry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Tofu Curry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Boiled Eggs",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 249,
+    "description": {
+      "heading": "31. Enjoy Delicious Boiled Eggs",
+      "subheading": "Boiled Eggs is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Boiled Eggs is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 696,
+    "description": {
+      "heading": "32. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Yogurt",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 569,
+    "description": {
+      "heading": "33. Enjoy Delicious Yogurt",
+      "subheading": "Yogurt is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Yogurt is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 445,
+    "description": {
+      "heading": "34. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 247,
+    "description": {
+      "heading": "35. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Avocado Toast",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 243,
+    "description": {
+      "heading": "36. Enjoy Delicious Avocado Toast",
+      "subheading": "Avocado Toast is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Avocado Toast is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Yogurt",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 658,
+    "description": {
+      "heading": "37. Enjoy Delicious Yogurt",
+      "subheading": "Yogurt is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Yogurt is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 569,
+    "description": {
+      "heading": "38. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 455,
+    "description": {
+      "heading": "39. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 359,
+    "description": {
+      "heading": "40. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 424,
+    "description": {
+      "heading": "41. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 607,
+    "description": {
+      "heading": "42. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Veggie Wrap",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 484,
+    "description": {
+      "heading": "43. Enjoy Delicious Veggie Wrap",
+      "subheading": "Veggie Wrap is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Veggie Wrap is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Smoothie",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 284,
+    "description": {
+      "heading": "44. Enjoy Delicious Smoothie",
+      "subheading": "Smoothie is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Smoothie is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Protein Bar",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 604,
+    "description": {
+      "heading": "45. Enjoy Delicious Protein Bar",
+      "subheading": "Protein Bar is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Protein Bar is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Smoothie",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 643,
+    "description": {
+      "heading": "46. Enjoy Delicious Smoothie",
+      "subheading": "Smoothie is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Smoothie is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Tofu Curry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 242,
+    "description": {
+      "heading": "47. Enjoy Delicious Tofu Curry",
+      "subheading": "Tofu Curry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Tofu Curry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Tofu Curry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 617,
+    "description": {
+      "heading": "48. Enjoy Delicious Tofu Curry",
+      "subheading": "Tofu Curry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Tofu Curry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 617,
+    "description": {
+      "heading": "49. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Stir Fry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 311,
+    "description": {
+      "heading": "50. Enjoy Delicious Stir Fry",
+      "subheading": "Stir Fry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Stir Fry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 578,
+    "description": {
+      "heading": "51. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Smoothie",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 272,
+    "description": {
+      "heading": "52. Enjoy Delicious Smoothie",
+      "subheading": "Smoothie is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Smoothie is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 327,
+    "description": {
+      "heading": "53. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Oatmeal Bowl",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 230,
+    "description": {
+      "heading": "54. Enjoy Delicious Oatmeal Bowl",
+      "subheading": "Oatmeal Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Oatmeal Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 55,
+    "name": "Veggie Wrap",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 296,
+    "description": {
+      "heading": "55. Enjoy Delicious Veggie Wrap",
+      "subheading": "Veggie Wrap is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Veggie Wrap is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 56,
+    "name": "Fruit Salad",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 344,
+    "description": {
+      "heading": "56. Enjoy Delicious Fruit Salad",
+      "subheading": "Fruit Salad is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Fruit Salad is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 57,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 492,
+    "description": {
+      "heading": "57. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 58,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 204,
+    "description": {
+      "heading": "58. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 59,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 519,
+    "description": {
+      "heading": "59. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 60,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 337,
+    "description": {
+      "heading": "60. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 61,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 224,
+    "description": {
+      "heading": "61. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 62,
+    "name": "Pancakes",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 413,
+    "description": {
+      "heading": "62. Enjoy Delicious Pancakes",
+      "subheading": "Pancakes is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pancakes is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 63,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 529,
+    "description": {
+      "heading": "63. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 64,
+    "name": "Boiled Eggs",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 586,
+    "description": {
+      "heading": "64. Enjoy Delicious Boiled Eggs",
+      "subheading": "Boiled Eggs is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Boiled Eggs is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 65,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 259,
+    "description": {
+      "heading": "65. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 66,
+    "name": "Smoothie",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 417,
+    "description": {
+      "heading": "66. Enjoy Delicious Smoothie",
+      "subheading": "Smoothie is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Smoothie is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 67,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 558,
+    "description": {
+      "heading": "67. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 68,
+    "name": "Tofu Curry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 492,
+    "description": {
+      "heading": "68. Enjoy Delicious Tofu Curry",
+      "subheading": "Tofu Curry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Tofu Curry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 69,
+    "name": "Fruit Salad",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 696,
+    "description": {
+      "heading": "69. Enjoy Delicious Fruit Salad",
+      "subheading": "Fruit Salad is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Fruit Salad is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Beef Stew",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 488,
+    "description": {
+      "heading": "70. Enjoy Delicious Beef Stew",
+      "subheading": "Beef Stew is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Beef Stew is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 71,
+    "name": "Tofu Curry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 618,
+    "description": {
+      "heading": "71. Enjoy Delicious Tofu Curry",
+      "subheading": "Tofu Curry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Tofu Curry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 72,
+    "name": "Pancakes",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 341,
+    "description": {
+      "heading": "72. Enjoy Delicious Pancakes",
+      "subheading": "Pancakes is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pancakes is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 73,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 609,
+    "description": {
+      "heading": "73. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 74,
+    "name": "Granola",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 634,
+    "description": {
+      "heading": "74. Enjoy Delicious Granola",
+      "subheading": "Granola is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Granola is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 75,
+    "name": "Nuts Mix",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 267,
+    "description": {
+      "heading": "75. Enjoy Delicious Nuts Mix",
+      "subheading": "Nuts Mix is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Nuts Mix is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 76,
+    "name": "Pancakes",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 287,
+    "description": {
+      "heading": "76. Enjoy Delicious Pancakes",
+      "subheading": "Pancakes is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pancakes is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 77,
+    "name": "Protein Bar",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 487,
+    "description": {
+      "heading": "77. Enjoy Delicious Protein Bar",
+      "subheading": "Protein Bar is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Protein Bar is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 78,
+    "name": "Protein Bar",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 672,
+    "description": {
+      "heading": "78. Enjoy Delicious Protein Bar",
+      "subheading": "Protein Bar is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Protein Bar is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 79,
+    "name": "Veggie Wrap",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 305,
+    "description": {
+      "heading": "79. Enjoy Delicious Veggie Wrap",
+      "subheading": "Veggie Wrap is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Veggie Wrap is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 80,
+    "name": "Pasta",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 294,
+    "description": {
+      "heading": "80. Enjoy Delicious Pasta",
+      "subheading": "Pasta is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Pasta is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 81,
+    "name": "Stir Fry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 292,
+    "description": {
+      "heading": "81. Enjoy Delicious Stir Fry",
+      "subheading": "Stir Fry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Stir Fry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 82,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 448,
+    "description": {
+      "heading": "82. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 83,
+    "name": "Stir Fry",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 437,
+    "description": {
+      "heading": "83. Enjoy Delicious Stir Fry",
+      "subheading": "Stir Fry is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Stir Fry is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 84,
+    "name": "Boiled Eggs",
+    "type": "breakfast",
+    "emoji": "\ud83c\udf73",
+    "photo": "https://source.unsplash.com/featured/?breakfast",
+    "calories": 431,
+    "description": {
+      "heading": "84. Enjoy Delicious Boiled Eggs",
+      "subheading": "Boiled Eggs is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Boiled Eggs is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 85,
+    "name": "Nuts Mix",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 671,
+    "description": {
+      "heading": "85. Enjoy Delicious Nuts Mix",
+      "subheading": "Nuts Mix is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Nuts Mix is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 86,
+    "name": "Beef Stew",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 548,
+    "description": {
+      "heading": "86. Enjoy Delicious Beef Stew",
+      "subheading": "Beef Stew is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Beef Stew is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 87,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 353,
+    "description": {
+      "heading": "87. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 88,
+    "name": "Beef Stew",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 404,
+    "description": {
+      "heading": "88. Enjoy Delicious Beef Stew",
+      "subheading": "Beef Stew is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Beef Stew is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 89,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 528,
+    "description": {
+      "heading": "89. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 90,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 331,
+    "description": {
+      "heading": "90. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 91,
+    "name": "Grilled Fish",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 302,
+    "description": {
+      "heading": "91. Enjoy Delicious Grilled Fish",
+      "subheading": "Grilled Fish is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Fish is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 92,
+    "name": "Quinoa Bowl",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 437,
+    "description": {
+      "heading": "92. Enjoy Delicious Quinoa Bowl",
+      "subheading": "Quinoa Bowl is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Quinoa Bowl is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 93,
+    "name": "Protein Bar",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 255,
+    "description": {
+      "heading": "93. Enjoy Delicious Protein Bar",
+      "subheading": "Protein Bar is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Protein Bar is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 94,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 589,
+    "description": {
+      "heading": "94. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 95,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 562,
+    "description": {
+      "heading": "95. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 96,
+    "name": "Burrito",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 575,
+    "description": {
+      "heading": "96. Enjoy Delicious Burrito",
+      "subheading": "Burrito is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Burrito is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 97,
+    "name": "Fruit Salad",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 493,
+    "description": {
+      "heading": "97. Enjoy Delicious Fruit Salad",
+      "subheading": "Fruit Salad is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Fruit Salad is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 98,
+    "name": "Protein Bar",
+    "type": "snack",
+    "emoji": "\ud83c\udf4e",
+    "photo": "https://source.unsplash.com/featured/?snack",
+    "calories": 685,
+    "description": {
+      "heading": "98. Enjoy Delicious Protein Bar",
+      "subheading": "Protein Bar is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Protein Bar is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 99,
+    "name": "Lentil Soup",
+    "type": "dinner",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "photo": "https://source.unsplash.com/featured/?dinner",
+    "calories": 491,
+    "description": {
+      "heading": "99. Enjoy Delicious Lentil Soup",
+      "subheading": "Lentil Soup is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Lentil Soup is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  },
+  {
+    "id": 100,
+    "name": "Grilled Chicken",
+    "type": "lunch",
+    "emoji": "\ud83e\udd6a",
+    "photo": "https://source.unsplash.com/featured/?lunch",
+    "calories": 600,
+    "description": {
+      "heading": "100. Enjoy Delicious Grilled Chicken",
+      "subheading": "Grilled Chicken is a perfect choice for your health-conscious lifestyle. Rich in nutrients and flavor, this meal option provides a balanced mix of carbohydrates, proteins, and fats. It helps boost energy levels, supports digestive health, and enhances overall wellness. Prepared with love and care, Grilled Chicken is designed to keep your taste buds happy while meeting your dietary goals. Enjoy this meal with a side of your favorite drink or as a standalone delight. Best served fresh and warm, this meal brings comfort and nutrition to your daily routine."
+    }
+  }
+]

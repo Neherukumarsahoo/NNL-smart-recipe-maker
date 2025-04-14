@@ -1,0 +1,14 @@
+.recipe-detail-page {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+.recipe-info ul {
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.recipe-info li {
+  background-color: #ffffff;
+  margin-bottom: 5px;
+}

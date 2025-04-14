@@ -1,0 +1,70 @@
+.profile-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-right: 1rem;
+    }
+    
+    .profile-pic-wrapper {
+      cursor: pointer;
+      display: block;
+      width: 60px;
+      height: 60px;
+      overflow: hidden;
+      border-radius: 50%;
+      border: 2px solid #fff;
+      transition: transform 0.3s ease;
+    }
+    
+    .profile-pic-wrapper:hover {
+      transform: scale(1.05);
+    }
+    
+    .profile-pic {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .fadeInDropdown {
+      animation: fadeIn 0.4s ease-in-out;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(12px);
+    }
+    
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    /* NavbarCustom.css */
+
+.nav-link {
+  font-weight: 500;
+  color: #333 !important;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #d39e00 !important;
+  text-decoration: none;
+}
+
+.active-nav {
+  font-weight: 700;
+  color: #ffc107 !important;
+  border-bottom: 2px solid #ffc107;
+  font-size: 50px;
+  padding-bottom: 4px;
+}
+
+.xyz{
+  color: #105319 !important;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: -5px;
+}

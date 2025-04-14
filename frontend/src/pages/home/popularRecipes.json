@@ -1,0 +1,53 @@
+[
+      {
+        "id": 1,
+        "title": "Creamy Pasta",
+        "image": "/images/pasta.jpg",
+        "description": "A rich and creamy Italian pasta recipe with garlic and herbs.",
+        "ingredients": ["Pasta", "Cream", "Garlic", "Olive Oil"],
+        "steps": [
+          "Boil the pasta until al dente.",
+          "Sauté garlic in olive oil.",
+          "Add cream and mix with pasta.",
+          "Garnish and serve hot."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Green Salad",
+        "image": "/images/salad.jpg",
+        "description": "A fresh and healthy mix of greens and veggies.",
+        "ingredients": ["Lettuce", "Cucumber", "Tomato", "Olive Oil", "Lemon Juice"],
+        "steps": [
+          "Chop all vegetables.",
+          "Drizzle olive oil and lemon juice.",
+          "Toss well and serve chilled."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Berry Smoothie",
+        "image": "/images/smoothie.jpg",
+        "description": "A refreshing smoothie made with mixed berries and yogurt.",
+        "ingredients": ["Strawberries", "Blueberries", "Yogurt", "Honey"],
+        "steps": [
+          "Wash and prepare the berries.",
+          "Blend berries with yogurt and honey.",
+          "Serve immediately with ice cubes."
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Spicy Noodles",
+        "image": "/images/noodles.jpg",
+        "description": "Delicious spicy stir-fried noodles with vegetables.",
+        "ingredients": ["Noodles", "Capsicum", "Carrot", "Soy Sauce", "Chili Sauce"],
+        "steps": [
+          "Boil the noodles and drain.",
+          "Stir-fry vegetables in a pan.",
+          "Add noodles and sauces. Mix well.",
+          "Cook for 2-3 mins and serve hot."
+        ]
+      }
+    ]
+    

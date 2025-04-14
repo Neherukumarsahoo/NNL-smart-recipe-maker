@@ -1,0 +1,105 @@
+/* About Page */
+.about-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-height: 100vh;
+      background-color: #16a34a;
+      color: white;
+      text-align: center;
+      animation: fadeIn 1.2s ease-in-out;
+    }
+    
+    /* Title */
+    .about-title {
+      font-size: 2.8rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+      border-bottom: 5px solid rgb(4, 249, 57);
+      display: inline-block;
+      padding-bottom: 5px;
+      color: rgb(245, 25, 5);
+      animation: slideIn 1.5s ease-in-out;
+    }
+    
+    /* About Content */
+    .about-content {
+      max-width: 900px;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 2rem;
+      border-radius: 15px;
+      border-left: 5px solid #16a34a;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+      line-height: 1.8;
+      font-size: 1.2rem;
+      transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    }
+    
+    .about-content:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+    }
+    
+    /* Team Section */
+    .team-container {
+      margin-top: 3rem;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+    
+    .team-card {
+      background: rgb(37, 39, 37);
+      color: #fbfefc;
+      padding: 1.5rem;
+      width: 250px;
+      border-radius: 15px;
+      border: 3px solid #e6c507;
+      text-align: center;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .team-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    }
+    
+    /* Team Images Set via CSS */
+    .team-image {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+      border: 3px solid #16a34a;
+      background-size: cover;
+      background-position: center;
+    }
+    
+    .team1 {
+      background-image: url('./rajkumar.jpg');
+    }
+    
+    .team2 {
+      background-image: url('./loresh.jpg');
+    }
+    
+    .team3 {
+      background-image: url('./nirod.jpg');
+    }
+    
+    /* Animations */
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes slideIn {
+      from { transform: translateY(-30px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    

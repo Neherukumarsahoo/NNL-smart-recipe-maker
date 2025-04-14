@@ -1,0 +1,160 @@
+.fade-in {
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hm-glass{
+  /* From https://css.glass */
+background: rgba(255, 255, 255, 0.14);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* treanding topic */
+.popular-card {
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  color: white;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+.popular-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* dark overlay */
+}
+
+.popular-card-content {
+  position: relative;
+  z-index: 2;
+  padding: 20px;
+}
+
+.popular-card:hover {
+  transform: scale(1.03);
+}
+
+/* Specific background images */
+.bg-pasta {
+  background-image: url('/images/pasta.jpg');
+}
+.bg-salad {
+  background-image: url('/images/salad.jpg');
+}
+.bg-smoothie {
+  background-image: url('/images/smoothie.jpg');
+}
+.bg-noodles {
+  background-image: url('/images/noodles.jpg');
+}
+
+
+
+/* recipe details page */
+.recipe-background {
+  background-color: #f8f9fa; /* light gray */
+  min-height: 100vh;
+}
+
+.animated-card {
+  animation: fadeIn 0.6s ease-in-out;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.recipe-image {
+  border: 2px solid #dee2e6;
+  transition: transform 0.3s ease-in-out;
+}
+
+.recipe-image:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+@keyframes fadeIn {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* cta section */
+.cta-section {
+  background-color: #f8f9fa;
+  border-top: 2px solid #e0e0e0;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.cta-section button:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+.cta-gradient-section {
+  background: linear-gradient(135deg, #06fa9c, #8df692);
+  border-radius: 12px;
+  margin: 50px 0;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+}
+
+.cta-gradient-section button:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.3);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.buttonabovetwo{
+  background-color: black;
+  border-radius: 12px;
+  margin: 50px 0;
+  flex: var(--bs-flex, 0 0 auto);
+  text-align: center;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+  height: 3rem;
+  width: 10rem;
+}
+.buttonabovetwo:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(248, 245, 245, 0.3);
+}
+.buttonabovetwo:hover {
+  background-color: #fcf8f5;
+  color: rgb(252, 251, 251);
+  text-decoration: none;
+  cursor: pointer;
+}

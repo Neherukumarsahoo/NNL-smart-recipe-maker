@@ -1,0 +1,44 @@
+/* Fullscreen background green */
+.recipe-page {
+      background-color: green; /* Tailwind's green-600 or choose your own */
+      min-height: 100vh;
+      width: 100vw;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      color: white;
+    }
+    
+    /* Optional: override Bootstrap's container padding */
+    .recipe-page.container {
+      max-width: 100% !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    
+    /* Custom input field */
+    .recipe-page input.form-control {
+      border-radius: 12px;
+      padding: 0.75rem 1rem;
+      border: none;
+    }
+    
+    /* Custom button */
+    .recipe-page .btn-primary {
+      background: #2f855a;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    
+    .recipe-page .btn-primary:hover {
+      background: #276749;
+    }
+    
+    /* Text center fix */
+    .recipe-page h2,
+    .recipe-page p {
+      color: #f0fdf4;
+    }
+    

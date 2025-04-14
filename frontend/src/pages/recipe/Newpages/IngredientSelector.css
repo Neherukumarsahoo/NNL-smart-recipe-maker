@@ -1,0 +1,23 @@
+.ingredient-selector {
+      width: 280px;
+      background-color: green;
+      border-right: 1px solid #ddd;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    
+    .ingredient-btn {
+      background-color: #e9ecef;
+      border: none;
+      transition: all 0.2s ease;
+    }
+    
+    .ingredient-btn:hover {
+      background-color: #d4edda;
+    }
+    
+    .ingredient-btn.selected {
+      background-color: #28a745;
+      color: white;
+    }
+    

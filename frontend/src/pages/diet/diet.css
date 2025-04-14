@@ -1,0 +1,253 @@
+.diet-hero-wrapper {
+      background: linear-gradient(135deg, #4a90e2, #007bff);
+      min-height: 300px;
+      color: white;
+    }
+    
+    .diet-hero-section {
+      animation: fadeInDown 1s ease-in-out;
+    }
+    
+    .diet-hero-title {
+      font-size: 3rem;
+      font-weight: 700;
+      text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+    }
+    
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+
+    /* step 3 part 1  */
+    .summary-card {
+      background: linear-gradient(to right, #fdfbfb, #ebedee);
+      border: none;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+      text-align: center;
+    }
+    
+    .summary-card:hover {
+      transform: translateY(-8px);
+    }
+    
+    .bounce-card {
+      animation: bounceIn 0.5s ease;
+    }
+    
+    .delay-1 {
+      animation-delay: 0.2s;
+    }
+    .delay-2 {
+      animation-delay: 0.4s;
+    }
+    
+    @keyframes bounceIn {
+      0% {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* prat 3 section 2 */
+    .chart-section-wrapper {
+      background: #f8f9fa;
+      padding: 2rem;
+      border-radius: 10px;
+    }
+    
+    .chart-title {
+      font-weight: 600;
+      color: #2c3e50;
+      animation: slideFade 1s ease;
+    }
+    
+    .chart-filter {
+      font-weight: 500;
+      border-radius: 8px;
+      transition: all 0.3s ease-in-out;
+    }
+    
+    .chart-filter:hover {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    }
+    
+    .chart-card {
+      border: none;
+      border-radius: 15px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      background: #ffffff;
+    }
+    
+    .chart-card:hover {
+      transform: scale(1.02);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .chart-subtitle {
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: #34495e;
+    }
+    
+    /* Animation */
+    @keyframes slideFade {
+      0% {
+        transform: translateY(-10px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateY(0px);
+        opacity: 1;
+      }
+    }
+    
+    .fade-in {
+      animation: fadeIn 0.8s ease forwards;
+      opacity: 0;
+    }
+    
+    .fade-in.delay-1 {
+      animation-delay: 0.3s;
+    }
+    
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+    .diet-hero-wrapper {
+      background: linear-gradient(to right, #66bb6a, #43a047);
+      color: white;
+      min-height: 100vh;
+      padding-bottom: 50px;
+    }
+    
+    .diet-hero-section {
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 20px;
+    }
+    
+    .hover-card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      border: none;
+      border-radius: 15px;
+    }
+    
+    .hover-card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    }
+    
+    .delay-1 {
+      animation-delay: 0.2s;
+    }
+    .hover-card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .hover-card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+    /* mini gole tracker */
+    .goal-item:hover {
+      background-color: #e6f7ea;
+      transform: scale(1.02);
+      transition: all 0.3s ease-in-out;
+    }
+    .goal-item {
+      background-color: #f8f9fa;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .goal-item h5 {
+      font-weight: 600;
+      color: #2c3e50;
+    }    
+
+    /* hydration tracker */
+    .glasses-grid {
+      gap: 10px;
+    }
+    
+    .glass-icon {
+      font-size: 2rem;
+      margin: 6px;
+      padding: 12px;
+      cursor: pointer;
+      border-radius: 10px;
+      transition: transform 0.3s ease, background-color 0.3s;
+      background-color: #e0f7ff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .glass-icon:hover {
+      transform: scale(1.2) rotate(5deg);
+      background-color: #b3ecff;
+    }
+    
+    .glass-icon.filled {
+      background-color: #5bc0de;
+      color: white;
+      transform: scale(1.1);
+    }
+    .glass-icon {
+      font-size: 2rem;
+      cursor: pointer;
+      transition: transform 0.3s ease, filter 0.3s ease;
+      display: inline-block;
+    }
+    
+    .glass-icon:hover {
+      transform: scale(1.2) rotate(-5deg);
+      filter: drop-shadow(0 0 5px #00bfff);
+    }
+    
+    .glass-icon.filled {
+      color: #00bfff;
+    }
+    
+    .glass-icon.empty {
+      color: #ccc;
+    }
+    
+    .hydration-toast {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 6px;
+      font-weight: bold;
+      text-align: center;
+      max-width: 300px;
+      margin: 0 auto 15px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    }
+    .meal-type-card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .meal-type-card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    }
+    
+    .meal-overlay {
+      background: rgba(0, 0, 0, 0.55);
+      backdrop-filter: blur(4px);
+    }
+      
+    

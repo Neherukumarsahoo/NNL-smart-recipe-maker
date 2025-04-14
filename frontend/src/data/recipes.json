@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Creamy Pasta",
+    "description": "Delicious creamy pasta with garlic and herbs.",
+    "image": "/images/pasta.jpg",
+    "ingredients": ["Pasta", "Cream", "Garlic", "Herbs", "Olive Oil"],
+    "steps": "1. Boil pasta\n2. Sauté garlic\n3. Add cream and herbs\n4. Mix with pasta\n5. Serve hot",
+    "reviews": [
+      { "rating": 5, "comment": "Loved it!" },
+      { "rating": 4, "comment": "Tasty but a bit salty." }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Veggie Salad",
+    "description": "A healthy mix of fresh vegetables and lemon dressing.",
+    "image": "/images/salad.jpg",
+    "ingredients": ["Lettuce", "Tomato", "Cucumber", "Carrot", "Lemon Juice"],
+    "steps": "1. Wash and chop veggies\n2. Toss in a bowl\n3. Add lemon dressing\n4. Serve chilled",
+    "reviews": [
+      { "rating": 4, "comment": "Very fresh and tasty!" },
+      { "rating": 3, "comment": "Could use more seasoning." }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Masala Omelette",
+    "description": "Spicy Indian-style omelette packed with flavors.",
+    "image": "/images/omelette.jpg",
+    "ingredients": ["Eggs", "Onion", "Tomato", "Chili", "Coriander", "Spices"],
+    "steps": "1. Beat eggs\n2. Add chopped veggies and spices\n3. Pour on hot pan\n4. Cook both sides\n5. Serve with toast",
+    "reviews": [
+      { "rating": 5, "comment": "Perfect breakfast!" },
+      { "rating": 4, "comment": "Spicy and satisfying." }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Mug Cake",
+    "description": "Quick and easy chocolate cake in a mug, ready in minutes!",
+    "image": "/images/mugcake.jpg",
+    "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Milk", "Oil", "Baking Powder"],
+    "steps": "1. Mix dry ingredients in a mug\n2. Add milk and oil\n3. Stir well\n4. Microwave for 1-2 minutes\n5. Let cool and enjoy",
+    "reviews": [
+      { "rating": 5, "comment": "Super quick and delicious!" },
+      { "rating": 4, "comment": "Perfect for midnight cravings." }
+    ]
+  }
+]
